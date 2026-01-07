@@ -17,15 +17,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chae1125&show_icons=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1125&layout=compact&hide=EJS&include_forks=true" height="180" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="center">
