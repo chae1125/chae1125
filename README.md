@@ -17,24 +17,39 @@
 
 ---
 
-### 🔗 Connect with Me
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:y72682685@gmail.com">
-    <img src="https://img.shields.io/badge/Email-y72682685@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chae1125&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chae1125&layout=compact&theme=rose_pine&hide_border=true&hide=ejs"/>
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chae1125&hide_border=true&theme=github-compact"/>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,figma,git,github,vscode,discord" />
 </p>
 
+---
+
+### 📫 Contact Me
+
+<p align="center">
+  <em>커피챗, 프로젝트 제안, 혹은 단순한 기술 교류 모두 환영합니다! 언제든 편하게 연락해 주세요. ☕</em>
+</p>
+
+<p align="center">
+  <a href="mailto:y72682685@gmail.com">
+    <img src="https://img.shields.io/badge/Email-y72682685@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
