@@ -19,10 +19,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chae1125&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1125&layout=compact&theme=rose_pine&hide_border=true&hide=ejs"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em"
+             src="https://github-readme-stats-fast.vercel.app/api?username=chae1125&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F8FAFF&title_color=6F8FEF&text_color=4B5563&icon_color=8FAAFB" />
+      </td>
+      <td>
+        <img height="180em"
+             src="https://streak-stats.demolab.com?user=chae1125&hide_border=true&background=F8FAFF&ring=6F8FEF&fire=8FAAFB&currStreakLabel=6F8FEF&sideLabels=4B5563&currStreakNum=374151&sideNums=374151&dates=9CA3AF" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
