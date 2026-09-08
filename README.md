@@ -20,16 +20,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chae1125&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chae1125&layout=compact&theme=rose_pine&hide_border=true&hide=ejs"/>
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chae1125&hide_border=true&theme=github-compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chae1125&show_icons=true&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chae1125&layout=compact&theme=rose_pine&hide_border=true&hide=ejs"/>
 </p>
 
 ---
